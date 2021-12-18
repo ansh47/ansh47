@@ -5,6 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh47)](https://github.com/ansh47/github-readme-stats)
 
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=churchill&font=Redressed)
+
 <!--
 **ansh47/ansh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
