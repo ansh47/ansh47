@@ -3,7 +3,7 @@
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh47&show_icons=true&theme=aura&count_private=true)](https://github.com/ansh47/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansh47&repo=github-readme-stats)](https://github.com/ansh47/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh47)](https://github.com/ansh47/github-readme-stats)
 
 <!--
 **ansh47/ansh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
