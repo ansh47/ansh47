@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Ankit Shrivastava
 
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh47)](https://github.com/ansh47/github-readme-stats)
+
 <!--
 **ansh47/ansh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
