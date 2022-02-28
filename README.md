@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React Button Component with an Icon](https://dev.to/ansh47/react-button-component-with-an-icon-b4l)
+- [REACT REDUX](https://dev.to/ansh47/react-redux-1h40)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
