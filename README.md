@@ -33,15 +33,8 @@
 
 ## GitHub
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ansh47&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh47&show_icons=true&hide_border=true&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&count_private=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh47&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh47&layout=compact&hide_border=true&theme=transparent&title_color=0969da&text_color=24292f" alt="Top languages" />
-  </picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ansh47/ansh47/main/github-metrics.svg" alt="GitHub stats including private repositories" width="100%" />
 </p>
 
 <br />
@@ -50,8 +43,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00ff41/ansh47" />
-    <img src="https://ghchart.rshah.org/008f11/ansh47" alt="Contribution heatmap" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh47/ansh47/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ansh47/ansh47/output/github-snake.svg" alt="Contribution heatmap" width="100%" />
   </picture>
 </p>
 
