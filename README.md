@@ -53,6 +53,33 @@
 
 <br />
 
+## Contributions
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/ansh47" />
+    <img src="https://ghchart.rshah.org/0969da/ansh47" alt="Contribution heatmap" width="100%" />
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ansh47&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&radius=6" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh47&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&area_color=0969da&hide_border=true&radius=6" alt="Activity graph" width="100%" />
+  </picture>
+</p>
+
+<br />
+
+## Recent repositories
+
+<p>
+  <a href="https://github.com/ansh47?tab=repositories&sort=updated"><img src="https://img.shields.io/badge/Browse%20latest%20repos-0969da?style=flat-square&logo=github&logoColor=white" alt="Latest repositories" /></a>
+  <a href="https://github.com/ansh47?tab=stars"><img src="https://img.shields.io/badge/Starred-24292f?style=flat-square&logo=github&logoColor=white" alt="Starred" /></a>
+</p>
+
+<br />
+
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
