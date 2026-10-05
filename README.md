@@ -1,29 +1,61 @@
-<h1 align="center">Hi 👋, I'm Ankit Shrivastava</h1>
-<h3 align="center">A Software Engineer</h3>
+<h1 align="center">Ankit Shrivastava</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh47&label=Profile%20views&color=0e75b6&style=flat" alt="ansh47" /> </p>
+<p align="center">
+  Lead Engineer. I build full stack products with React, TypeScript and Spring Boot.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh47" alt="ansh47" /></a> </p>
+<p align="center">
+  <a href="https://dev.to/ansh47"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://x.com/_ansh47"><img src="https://img.shields.io/badge/@__ansh47-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ansh47&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/_ansh47" target="blank"><img src="https://img.shields.io/twitter/follow/_ansh47?logo=twitter&style=for-the-badge" alt="_ansh47" /></a> </p>
+<br />
 
-### Blogs posts
+## About
+
+- Day job: leading a team, reviewing a lot of pull requests, keeping systems boring and reliable.
+- Side projects: developer tools, small web apps and agents, mostly in TypeScript and Python.
+- Most comfortable across the whole stack, from the database schema to the button state.
+- Open to freelance work on React frontends and Spring Boot backends.
+
+<br />
+
+## Stack
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,tailwind,html,css,java,spring,nodejs,express,python,fastapi,postgres,mysql,mongodb,firebase,git&perline=10" alt="Tech stack" />
+  </a>
+</p>
+
+<br />
+
+## GitHub
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ansh47&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh47&show_icons=true&hide_border=true&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&count_private=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh47&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh47&layout=compact&hide_border=true&theme=transparent&title_color=0969da&text_color=24292f" alt="Top languages" />
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ansh47&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    <img src="https://streak-stats.demolab.com/?user=ansh47&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" alt="Contribution streak" />
+  </picture>
+</p>
+
+<br />
+
+## Writing
+
 <!-- BLOG-POST-LIST:START -->
 - [React Button Component with an Icon](https://dev.to/ansh47/react-button-component-with-an-icon-b4l)
 - [React Redux for beginners](https://dev.to/ansh47/react-redux-1h40)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ansh47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ansh47" height="30" width="40" /></a>
-<a href="https://twitter.com/_ansh47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansh47" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh47&show_icons=true&locale=en&layout=compact" alt="ansh47" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh47&show_icons=true&theme=aura&locale=en" alt="ansh47" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh47&" alt="ansh47" /></p>
