@@ -44,28 +44,21 @@
   </picture>
 </p>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ansh47&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    <img src="https://streak-stats.demolab.com/?user=ansh47&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" alt="Contribution streak" />
-  </picture>
-</p>
-
 <br />
 
 ## Contributions
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/ansh47" />
-    <img src="https://ghchart.rshah.org/0969da/ansh47" alt="Contribution heatmap" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00ff41/ansh47" />
+    <img src="https://ghchart.rshah.org/008f11/ansh47" alt="Contribution heatmap" width="100%" />
   </picture>
 </p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ansh47&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&radius=6" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh47&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&area_color=0969da&hide_border=true&radius=6" alt="Activity graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ansh47&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=008f11&hide_border=true&radius=6" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh47&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=008f11&hide_border=true&radius=6" alt="Activity graph" width="100%" />
   </picture>
 </p>
 
